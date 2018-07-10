@@ -1,0 +1,47 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-language" content="es">
+<div *ngIf='marcas==true'>
+	<div class="container">
+		<div class="row">
+			<div class="h2">Elige por marca</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-4" *ngFor="let marca of marcas">
+				<div id="centrador">
+					<img src={{urlImageDispositivo}} [height]="190">
+					<div id="titleDevice">{{dispositivo}}</div>
+					<div id="subTitleMarca">{{marca}}</div>
+				</div>
+			</div>
+	</div>
+</div>
+<div *ngIf='deviceMarca==true'>
+	<div class="container">
+		<div class="row">
+			<div class="h2">Selección {{seccionMarcas}}</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-4">
+				<div id="centrador">
+					<img src={{urlImageDispositivo}} [height]="190">
+					<div id="titleDevice">{{dispositivo}}</div>
+					<div id="subTitleMarca">{{marca}}</div>
+				</div>
+			</div>
+			<div class="col-sm-4">	
+				<div id="centrador">
+					<img src={{urlImageDispositivo}} [height]="190">
+					<div id="titleDevice">{{dispositivo}}</div>
+					<div id="subTitleMarca">{{marca}}</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div id="centrador">
+					<img src={{urlImageDispositivo}} [height]="190">
+					<div id="titleDevice">{{dispositivo}}</div>
+					<div id="subTitleMarca">{{marca}}</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

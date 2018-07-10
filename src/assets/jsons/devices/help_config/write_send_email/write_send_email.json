@@ -1,0 +1,100 @@
+{
+  "Steps": [
+    {
+      "Titles_steps": "1. Buscar \"Correo electrónico\"",
+      "Description_Steps": [
+        {
+          "Descriptions": "Deslizar el dedo hacia arriba por la pantalla."
+        },
+        {
+          "Descriptions": "Pulsar Samsung."
+        },
+        {
+          "Descriptions": "Pulsar Correo electrónico."
+        }
+      ]
+    },
+    {
+      "Titles_steps": "2. Seleccionar una cuenta de correo electrónico",
+      "Description_Steps": [
+        {
+          "Descriptions": "Deslizar el dedo hacia la derecha desde la parte izquierda de la pantalla."
+        },
+        {
+          "Descriptions": "Pulsar una cuenta."
+        }
+      ]
+    },
+    {
+      "Titles_steps": "3. Crear un nuevo correo electrónico",
+      "Description_Steps": [
+        {
+          "Descriptions": "Pulsar el icono de nuevo correo electrónico."
+        }
+      ]
+    },
+    {
+      "Titles_steps": "4. Seleccionar un destinatario",
+      "Description_Steps": [
+        {
+          "Descriptions": "Pulsar en el buscador e introducir las primeras letras del nombre del destinatario."
+        },
+        {
+          "Descriptions": "Pulsar un contacto."
+        }
+      ]
+    },
+    {
+      "Titles_steps": "5. Introducir un asunto",
+      "Description_Steps": [
+        {
+          "Descriptions": "Pulsar Asunto e introducir el asunto deseado."
+        }
+      ]
+    },
+    {
+      "Titles_steps": "6. Escribir texto",
+      "Description_Steps": [
+        {
+          "Descriptions": "Pulsar en el campo de escritura y escribir el texto del correo electrónico."
+        }
+      ]
+    },
+    {
+      "Titles_steps": "7. Adjuntar un archivo",
+      "Description_Steps": [
+        {
+          "Descriptions": "Pulsar ADJUNTAR."
+        },
+        {
+          "Descriptions": "Deslizar el dedo hacia la izquierda por la pantalla."
+        },
+        {
+          "Descriptions": "Pulsar Mis archivos y desplazarse a la carpeta deseada."
+        },
+        {
+          "Descriptions": "Pulsar el archivo deseado."
+        },
+        {
+          "Descriptions": "Pulsar HECHO."
+        }
+      ]
+    },
+    {
+      "Titles_steps": "8. Enviar el correo electrónico",
+      "Description_Steps": [
+        {
+          "Descriptions": "Pulsar ENVIAR al terminar de escribir el correo electrónico."
+        }
+      ]
+    },
+    {
+      "Titles_steps": "9. Regresar a la pantalla de inicio",
+      "Description_Steps": [
+        {
+          "Descriptions": "Pulsar la tecla de inicio para terminar y regresar a la pantalla de inicio."
+        }
+      ]
+    }
+  ]
+}

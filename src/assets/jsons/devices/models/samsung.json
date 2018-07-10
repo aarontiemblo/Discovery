@@ -1,0 +1,388 @@
+{
+  "Samsung": [
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1120418-f-247cf98b-c996-4191-987d-c62e9e900e08.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-tab-s3-android-7-0/funciones/",
+      "model": "Galaxy Tab S3",
+      "model_url": "https://guias.orange.es/samsung-galaxy-tab-s3-android-7-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1090418-f-0282cad1-85c7-4c53-bfd0-0972e7668032.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-tab-active-2-android-7-1/funciones/",
+      "model": "Galaxy Tab Active 2",
+      "model_url": "https://guias.orange.es/samsung-galaxy-tab-active-2-android-7-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1010518-f-eda53e87-ff85-4959-b6ee-33316d7ca762.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-s9-plus-android-8-0/funciones/",
+      "model": "Galaxy S9+",
+      "model_url": "https://guias.orange.es/samsung-galaxy-s9-plus-android-8-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1280318-f-2c72113d-73f6-4efa-a7ad-b31d5ecac737.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-a8-2018-android-7-1/funciones/",
+      "model": "Galaxy A8 2018",
+      "model_url": "https://guias.orange.es/samsung-galaxy-a8-2018-android-7-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1010518-f-b8ee908e-17c9-43fb-981c-14126648dbb9.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-s9-android-8-0/funciones/",
+      "model": "Galaxy S9",
+      "model_url": "https://guias.orange.es/samsung-galaxy-s9-android-8-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-56a81bc3-ef8f-46dc-b4ab-1f7b84e96515.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-note8-android-7-1/funciones/",
+      "model": "Galaxy Note8",
+      "model_url": "https://guias.orange.es/samsung-galaxy-note8-android-7-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-4196f413-240d-4301-8668-23beb0580c5e.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-j3-2017-android-7-0/funciones/",
+      "model": "Galaxy J3 (2017)",
+      "model_url": "https://guias.orange.es/samsung-galaxy-j3-2017-android-7-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-78bf87f6-91a7-453f-83d1-7512949ac9fb.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-j7-2017-j730f-android-7-0/funciones/",
+      "model": "Galaxy J7 2017 (J730F)",
+      "model_url": "https://guias.orange.es/samsung-galaxy-j7-2017-j730f-android-7-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-a814ed0d-0ce1-4abb-8543-a471da6079f7.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-a3-2017-android-6-0-1/funciones/",
+      "model": "Galaxy A3 (2017)",
+      "model_url": "https://guias.orange.es/samsung-galaxy-a3-2017-android-6-0-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-2641b3e6-9267-43b7-abea-63191c2d2764.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/",
+      "model": "Galaxy J5 (2017)",
+      "model_url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-82258171-e50f-4960-b4fb-660096ba2fee.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2016-android-6-0/funciones/",
+      "model": "Galaxy J5 (2016)",
+      "model_url": "https://guias.orange.es/samsung-galaxy-j5-2016-android-6-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-c5d963f3-b258-4db4-8704-1e2b66202851.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-a5-2017-android-6-0-1/funciones/",
+      "model": "Galaxy A5 (2017)",
+      "model_url": "https://guias.orange.es/samsung-galaxy-a5-2017-android-6-0-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-1927521d-edb1-43b8-8816-af0152002f3c.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-s8-android-7-0/funciones/",
+      "model": "Galaxy S8",
+      "model_url": "https://guias.orange.es/samsung-galaxy-s8-android-7-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-57ad8688-f3a8-4cf1-9b4f-cca49bc1ad78.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-s8-plus-android-7-0/funciones/",
+      "model": "Galaxy S8+",
+      "model_url": "https://guias.orange.es/samsung-galaxy-s8-plus-android-7-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-3dc3ee42-2d50-42ab-bc21-6054e52a7fe5.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-j3-2016-android-5-1-1/funciones/",
+      "model": "Galaxy J3 (2016)",
+      "model_url": "https://guias.orange.es/samsung-galaxy-j3-2016-android-5-1-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-eefae5e3-275b-407f-b0ed-957ae4d1df57.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-s7-edge-android-6-0/funciones/",
+      "model": "Galaxy S7 edge",
+      "model_url": "https://guias.orange.es/samsung-galaxy-s7-edge-android-6-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-6de5f607-21b0-4b13-8165-6aef4cce979f.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-alpha-android-4-4/funciones/",
+      "model": "Galaxy Alpha",
+      "model_url": "https://guias.orange.es/samsung-galaxy-alpha-android-4-4/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-ff9615e3-3ca4-4e14-8b31-f2e9d632b00d.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-s7-android-6-0/funciones/",
+      "model": "Galaxy S7",
+      "model_url": "https://guias.orange.es/samsung-galaxy-s7-android-6-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-7e1c05a3-768e-4a07-aaee-8f957b12e76e.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-android-5-1-1/funciones/",
+      "model": "Galaxy J5",
+      "model_url": "https://guias.orange.es/samsung-galaxy-j5-android-5-1-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-9beeaaa3-04f4-4d1c-90c8-c89d11844c7d.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-s6-edge-plus-android-5-1-1/funciones/",
+      "model": "Galaxy S6 edge+",
+      "model_url": "https://guias.orange.es/samsung-galaxy-s6-edge-plus-android-5-1-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-6dafc5af-4973-41be-bb28-687e9d4f8f50.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-grand-prime-android-4-4-4/funciones/",
+      "model": "Galaxy Grand Prime",
+      "model_url": "https://guias.orange.es/samsung-galaxy-grand-prime-android-4-4-4/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/1011217-f-7237a974-3875-4537-9b7a-bd70f8fefb46.jpg?width=165&height=190",
+      "url": "https://guias.orange.es/samsung-galaxy-core-prime-android-4-4-4/funciones/",
+      "model": "Galaxy Core Prime",
+      "model_url": "https://guias.orange.es/samsung-galaxy-core-prime-android-4-4-4/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-a300fu-galaxy-a3_large.png?1",
+      "url": "https://guias.orange.es/samsung-a300fu-galaxy-a3/funciones/",
+      "model": "A300FU Galaxy A3",
+      "model_url": "https://guias.orange.es/samsung-a300fu-galaxy-a3/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-a500fu-galaxy-a5_large.png?1",
+      "url": "https://guias.orange.es/samsung-a500fu-galaxy-a5/funciones/",
+      "model": "A500FU Galaxy A5",
+      "model_url": "https://guias.orange.es/samsung-a500fu-galaxy-a5/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-b2710-xcover-271_large.png?1",
+      "url": "https://guias.orange.es/samsung-b2710-xcover-271/funciones/",
+      "model": "B2710 Xcover 271",
+      "model_url": "https://guias.orange.es/samsung-b2710-xcover-271/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-c3520-citrus_large.png?1",
+      "url": "https://guias.orange.es/samsung-c3520-citrus/funciones/",
+      "model": "C3520 Citrus",
+      "model_url": "https://guias.orange.es/samsung-c3520-citrus/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-e1150-cobble_large.png?1",
+      "url": "https://guias.orange.es/samsung-e1150-cobble/funciones/",
+      "model": "E1150 Cobble",
+      "model_url": "https://guias.orange.es/samsung-e1150-cobble/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-g130hn-galaxy-young-2_large.png?1",
+      "url": "https://guias.orange.es/samsung-g130hn-galaxy-young-2/funciones/",
+      "model": "G130HN Galaxy Young 2",
+      "model_url": "https://guias.orange.es/samsung-g130hn-galaxy-young-2/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-g357-galaxy-ace-4_large.png?1",
+      "url": "https://guias.orange.es/samsung-g357-galaxy-ace-4/funciones/",
+      "model": "G357 Galaxy Ace 4",
+      "model_url": "https://guias.orange.es/samsung-g357-galaxy-ace-4/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-g386f-galaxy-core-lte_large.png?1",
+      "url": "https://guias.orange.es/samsung-g386f-galaxy-core-lte/funciones/",
+      "model": "G386F Galaxy Core LTE",
+      "model_url": "https://guias.orange.es/samsung-g386f-galaxy-core-lte/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-g7105-galaxy-grand-2_large.png?1",
+      "url": "https://guias.orange.es/samsung-g7105-galaxy-grand-2/funciones/",
+      "model": "G7105 Galaxy Grand 2",
+      "model_url": "https://guias.orange.es/samsung-g7105-galaxy-grand-2/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-galaxy-s5_large.png?1",
+      "url": "https://guias.orange.es/samsung-galaxy-s5/funciones/",
+      "model": "Galaxy S5",
+      "model_url": "https://guias.orange.es/samsung-galaxy-s5/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-galaxy-s6_large.png?1",
+      "url": "https://guias.orange.es/samsung-galaxy-s6/funciones/",
+      "model": "Galaxy S6",
+      "model_url": "https://guias.orange.es/samsung-galaxy-s6/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-galaxy-s6-edge_large.png?1",
+      "url": "https://guias.orange.es/samsung-galaxy-s6-edge/funciones/",
+      "model": "Galaxy S6 Edge",
+      "model_url": "https://guias.orange.es/samsung-galaxy-s6-edge/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i8160-galaxy-ace-ii_large.png?1",
+      "url": "https://guias.orange.es/samsung-i8160-galaxy-ace-ii/funciones/",
+      "model": "I8160 Galaxy Ace II",
+      "model_url": "https://guias.orange.es/samsung-i8160-galaxy-ace-ii/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i8190-galaxy-s-iii-mini_large.png?1",
+      "url": "https://guias.orange.es/samsung-i8190-galaxy-s-iii-mini/funciones/",
+      "model": "I8190 Galaxy S III Mini",
+      "model_url": "https://guias.orange.es/samsung-i8190-galaxy-s-iii-mini/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i8730-galaxy-express_large.png?1",
+      "url": "https://guias.orange.es/samsung-i8730-galaxy-express/funciones/",
+      "model": "I8730 Galaxy Express",
+      "model_url": "https://guias.orange.es/samsung-i8730-galaxy-express/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i9000-galaxy-s_large.png?1",
+      "url": "https://guias.orange.es/samsung-i9000-galaxy-s/funciones/",
+      "model": "I9000 Galaxy S",
+      "model_url": "https://guias.orange.es/samsung-i9000-galaxy-s/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i9001-galaxy-s-plus_large.png?1",
+      "url": "https://guias.orange.es/samsung-i9001-galaxy-s-plus/funciones/",
+      "model": "I9001 Galaxy S Plus",
+      "model_url": "https://guias.orange.es/samsung-i9001-galaxy-s-plus/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i9060-galaxy-grand-neo_large.png?1",
+      "url": "https://guias.orange.es/samsung-i9060-galaxy-grand-neo/funciones/",
+      "model": "I9060 Galaxy Grand Neo",
+      "model_url": "https://guias.orange.es/samsung-i9060-galaxy-grand-neo/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i9070-galaxy-s-advance_large.png?1",
+      "url": "https://guias.orange.es/samsung-i9070-galaxy-s-advance/funciones/",
+      "model": "I9070 Galaxy S Advance",
+      "model_url": "https://guias.orange.es/samsung-i9070-galaxy-s-advance/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i9100-galaxy-s-ii_large.png?1",
+      "url": "https://guias.orange.es/samsung-i9100-galaxy-s-ii/funciones/",
+      "model": "I9100 Galaxy S II",
+      "model_url": "https://guias.orange.es/samsung-i9100-galaxy-s-ii/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i9195-galaxy-s-iv-mini-lte_large.png?1",
+      "url": "https://guias.orange.es/samsung-i9195-galaxy-s-iv-mini-lte/funciones/",
+      "model": "I9195 Galaxy S IV Mini LTE",
+      "model_url": "https://guias.orange.es/samsung-i9195-galaxy-s-iv-mini-lte/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i9300-galaxy-s-iii_large.png?1",
+      "url": "https://guias.orange.es/samsung-i9300-galaxy-s-iii/funciones/",
+      "model": "I9300 Galaxy S III",
+      "model_url": "https://guias.orange.es/samsung-i9300-galaxy-s-iii/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-i9505-galaxy-s-iv-lte_large.png?1",
+      "url": "https://guias.orange.es/samsung-i9505-galaxy-s-iv-lte/funciones/",
+      "model": "I9505 Galaxy S IV LTE",
+      "model_url": "https://guias.orange.es/samsung-i9505-galaxy-s-iv-lte/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-n7100-galaxy-note-ii_large.png?1",
+      "url": "https://guias.orange.es/samsung-n7100-galaxy-note-ii/funciones/",
+      "model": "N7100 Galaxy Note II",
+      "model_url": "https://guias.orange.es/samsung-n7100-galaxy-note-ii/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-n9005-galaxy-note-iii-lte_large.png?1",
+      "url": "https://guias.orange.es/samsung-n9005-galaxy-note-iii-lte/funciones/",
+      "model": "N9005 Galaxy Note III LTE",
+      "model_url": "https://guias.orange.es/samsung-n9005-galaxy-note-iii-lte/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-n910f-galaxy-note-4_large.png?1",
+      "url": "https://guias.orange.es/samsung-n910f-galaxy-note-4/funciones/",
+      "model": "N910F Galaxy Note 4",
+      "model_url": "https://guias.orange.es/samsung-n910f-galaxy-note-4/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-p5200-galaxy-tab-3-10-1_large.png?1",
+      "url": "https://guias.orange.es/samsung-p5200-galaxy-tab-3-10-1/funciones/",
+      "model": "P5200 Galaxy Tab 3 10-1",
+      "model_url": "https://guias.orange.es/samsung-p5200-galaxy-tab-3-10-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-p7500-galaxy-tab-10-1_large.png?1",
+      "url": "https://guias.orange.es/samsung-p7500-galaxy-tab-10-1/funciones/",
+      "model": "P7500 Galaxy Tab 10-1",
+      "model_url": "https://guias.orange.es/samsung-p7500-galaxy-tab-10-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s5220-star-3_large.png?1",
+      "url": "https://guias.orange.es/samsung-s5220-star-3/funciones/",
+      "model": "S5220 Star 3",
+      "model_url": "https://guias.orange.es/samsung-s5220-star-3/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s5230w-star-wifi_large.png?1",
+      "url": "https://guias.orange.es/samsung-s5230w-star-wifi/funciones/",
+      "model": "S5230W Star WiFi",
+      "model_url": "https://guias.orange.es/samsung-s5230w-star-wifi/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s5570-galaxy-mini_large.png?1",
+      "url": "https://guias.orange.es/samsung-s5570-galaxy-mini/funciones/",
+      "model": "S5570 Galaxy Mini",
+      "model_url": "https://guias.orange.es/samsung-s5570-galaxy-mini/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s5620-monte_large.png?1",
+      "url": "https://guias.orange.es/samsung-s5620-monte/funciones/",
+      "model": "S5620 Monte",
+      "model_url": "https://guias.orange.es/samsung-s5620-monte/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s5830-galaxy-ace_large.png?1",
+      "url": "https://guias.orange.es/samsung-s5830-galaxy-ace/funciones/",
+      "model": "S5830 Galaxy Ace",
+      "model_url": "https://guias.orange.es/samsung-s5830-galaxy-ace/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s6310-galaxy-young_large.png?1",
+      "url": "https://guias.orange.es/samsung-s6310-galaxy-young/funciones/",
+      "model": "S6310 Galaxy Young",
+      "model_url": "https://guias.orange.es/samsung-s6310-galaxy-young/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s6500d-galaxy-mini-2_large.png?1",
+      "url": "https://guias.orange.es/samsung-s6500d-galaxy-mini-2/funciones/",
+      "model": "S6500D Galaxy Mini 2",
+      "model_url": "https://guias.orange.es/samsung-s6500d-galaxy-mini-2/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s7230e-prato_large.png?1",
+      "url": "https://guias.orange.es/samsung-s7230e-prato/funciones/",
+      "model": "S7230E Prato",
+      "model_url": "https://guias.orange.es/samsung-s7230e-prato/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s7560-galaxy-trend_large.png?1",
+      "url": "https://guias.orange.es/samsung-s7560-galaxy-trend/funciones/",
+      "model": "S7560 Galaxy Trend",
+      "model_url": "https://guias.orange.es/samsung-s7560-galaxy-trend/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s7580-galaxy-trend-plus_large.png?1",
+      "url": "https://guias.orange.es/samsung-s7580-galaxy-trend-plus/funciones/",
+      "model": "S7580 Galaxy Trend Plus",
+      "model_url": "https://guias.orange.es/samsung-s7580-galaxy-trend-plus/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-s8500-wave_large.png?1",
+      "url": "https://guias.orange.es/samsung-s8500-wave/funciones/",
+      "model": "S8500 Wave",
+      "model_url": "https://guias.orange.es/samsung-s8500-wave/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-t211-galaxy-tab-3-7-0_large.png?1",
+      "url": "https://guias.orange.es/samsung-t211-galaxy-tab-3-7-0/funciones/",
+      "model": "T211 Galaxy Tab 3 7-0",
+      "model_url": "https://guias.orange.es/samsung-t211-galaxy-tab-3-7-0/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-t535-galaxy-tab-4-10-1_large.png?1",
+      "url": "https://guias.orange.es/samsung-t535-galaxy-tab-4-10-1/funciones/",
+      "model": "T535 Galaxy Tab 4 10-1",
+      "model_url": "https://guias.orange.es/samsung-t535-galaxy-tab-4-10-1/funciones/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/orange-es/samsung-t805-galaxy-tab-s_large.png?1",
+      "url": "https://guias.orange.es/samsung-t805-galaxy-tab-s/funciones/",
+      "model": "T805 Galaxy Tab S",
+      "model_url": "https://guias.orange.es/samsung-t805-galaxy-tab-s/funciones/"
+    }
+  ]
+}

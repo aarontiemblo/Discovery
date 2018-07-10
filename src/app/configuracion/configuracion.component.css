@@ -1,0 +1,19 @@
+#centrador{
+ 	text-align: center;
+/*   width: 130px; */
+/*   height: 190px; */
+}
+
+#titleDevice{
+	padding: 20px 0 5px 0;
+	font-size: 18px;
+	font-family: 'Conv_HelvNeue75',Arial,Verdana;
+	color: #ff7900;
+}
+#subTitleMarca{
+	font-size: 18px;
+	font-family: 'Conv_HelvNeue75',Arial,Verdana;
+	color: #000;
+	font-weight: bold;
+	padding-top: -50px;
+}

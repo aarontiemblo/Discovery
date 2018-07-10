@@ -1,0 +1,84 @@
+{
+  "Marcas": [
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-9747c744-32c8-4ca4-b317-04dccf02897a.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/alcatel/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-9ac2a57a-890d-4cc3-bf6e-97da682fab6b.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/apple/"
+    },
+    {
+      "image": "https://guias.orange.es/content/images/manufacturers/blackberry.png",
+      "url": "https://guias.orange.es/view/blackberry/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-6ed31ea0-87be-487f-a207-ff2fa4bae1d1.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/bq/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-ab437d9a-c37a-4cd4-9e15-d59e2f28dc13.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/doro/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-6644ab89-65dd-4409-88a2-1667835186fb.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/google/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-298c7db8-ab65-4aa4-8127-2b0e96920d3a.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/htc/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-b5f7ff17-0622-47d9-862a-9034d4199117.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/huawei/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-47b4863a-57b1-436c-aa45-a96be0814ad7.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/lenovo/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-23358ef7-9598-4a21-a24a-0790651442ce.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/lg/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-6bc05717-6027-460f-b058-f5d1eb3300cb.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/microsoft/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-8f2d61bd-9ec3-45e4-9302-ba4ebc8b2f3c.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/motorola/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-2af9f451-a997-4acd-9bd6-3b75e9bb6d57.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/nokia/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-b7b526dd-0ca8-46e5-ac43-7b58e0792fb0.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/orange/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-a8ebdf32-36c5-4ebd-a7f8-7289ab18e6a9.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/samsung/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-1d86142b-4d24-4e27-abd3-f04b3a6407b7.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/sony/"
+    },
+    {
+      "image": "https://guias.orange.es/content/images/manufacturers/sony-ericsson.png",
+      "url": "https://guias.orange.es/view/sony-ericsson/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-99ec0d32-4691-4783-99cd-85e294bc19d8.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/wiko/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-2f090e6a-132d-457e-968a-534aeddebafa.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/xiaomi/"
+    },
+    {
+      "image": "https://wmstatic.global.ssl.fastly.net/ml/10-F-f-8150cb5c-605b-48d9-bfa1-2d824b8af093.png?width=80&height=80",
+      "url": "https://guias.orange.es/view/zte/"
+    }
+  ]
+}

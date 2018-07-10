@@ -1,0 +1,312 @@
+{
+  "links_config": [
+    {
+      "name": "Lo más buscado",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/"
+    },
+    {
+      "name": "Cómo activar una cuenta de Google en el móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/como-activar-una-cuenta-de-google-en-el-movil/"
+    },
+    {
+      "name": "Cómo configurar el móvil para internet",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/como-configurar-el-movil-para-internet/"
+    },
+    {
+      "name": "Cómo conectarse a una red Wi-Fi",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/como-conectarse-a-una-red-wi-fi/"
+    },
+    {
+      "name": "Cómo instalar WhatsApp Messenger",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-instalar-whatsapp-messenger/"
+    },
+    {
+      "name": "Cómo consultar el consumo de datos",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/como-consultar-el-consumo-de-datos/"
+    },
+    {
+      "name": "Cómo actualizar el software del móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-actualizar-el-software-del-movil/"
+    },
+    {
+      "name": "Cómo restablecer la configuración predeterminada",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-restablecer-la-configuracion-predeterminada/"
+    },
+    {
+      "name": "Cómo liberar el móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-liberar-el-movil/"
+    },
+    {
+      "name": "Configuración y primer uso del teléfono móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/"
+    },
+    {
+      "name": "Cómo colocar la SIM",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/como-colocar-la-sim/"
+    },
+    {
+      "name": "Cómo cargar la batería",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/como-cargar-la-bateria/"
+    },
+    {
+      "name": "Cómo encender y apagar el móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/como-encender-y-apagar-el-movil/"
+    },
+    {
+      "name": "Cómo activar una cuenta de Google en el móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/como-activar-una-cuenta-de-google-en-el-movil/"
+    },
+    {
+      "name": "Cómo seleccionar el timbre de llamada",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/como-seleccionar-el-timbre-de-llamada/"
+    },
+    {
+      "name": "Activar o desactivar el modo silencioso",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/activar-o-desactivar-el-modo-silencioso/"
+    },
+    {
+      "name": "Cómo ajustar la fecha y la hora",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/como-ajustar-la-fecha-y-la-hora/"
+    },
+    {
+      "name": "Cómo copiar contactos entre la SIM y el móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/como-copiar-contactos-entre-la-sim-y-el-movil/"
+    },
+    {
+      "name": "Cómo conectarse a una red Wi-Fi",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-y-primer-uso-del-telefono-movil/como-conectarse-a-una-red-wi-fi/"
+    },
+    {
+      "name": "Llamadas y contactos",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/llamadas-y-contactos/"
+    },
+    {
+      "name": "Cómo crear un nuevo contacto",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/llamadas-y-contactos/como-crear-un-nuevo-contacto/"
+    },
+    {
+      "name": "Cómo guardar el número del contestador",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/llamadas-y-contactos/como-guardar-el-numero-del-contestador/"
+    },
+    {
+      "name": "Cómo desviar las llamadas al contestador",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/llamadas-y-contactos/como-desviar-las-llamadas-al-contestador/"
+    },
+    {
+      "name": "Cómo cancelar todos los desvíos",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/llamadas-y-contactos/como-cancelar-todos-los-desvios/"
+    },
+    {
+      "name": "Cómo llamar a un contacto de la guía",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/llamadas-y-contactos/como-llamar-a-un-contacto-de-la-guia/"
+    },
+    {
+      "name": "Cómo copiar contactos de RRSS y cuentas de correo",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/llamadas-y-contactos/como-copiar-contactos-de-rrss-y-cuentas-de-correo/"
+    },
+    {
+      "name": "Mensajes, correo electrónico y chat online",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/"
+    },
+    {
+      "name": "Cómo configurar el móvil para SMS",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-configurar-el-movil-para-sms/"
+    },
+    {
+      "name": "Cómo escribir y enviar un SMS",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-escribir-y-enviar-un-sms/"
+    },
+    {
+      "name": "Cómo configurar el móvil para MMS",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-configurar-el-movil-para-mms/"
+    },
+    {
+      "name": "Cómo escribir y enviar un MMS",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-escribir-y-enviar-un-mms/"
+    },
+    {
+      "name": "Cómo configurar el correo electrónico POP3",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-configurar-el-correo-electronico-pop3/"
+    },
+    {
+      "name": "Cómo escribir y enviar correo electrónico",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-escribir-y-enviar-correo-electronico/"
+    },
+    {
+      "name": "Cómo utilizar Facebook",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-utilizar-facebook/"
+    },
+    {
+      "name": "Cómo instalar WhatsApp Messenger",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-instalar-whatsapp-messenger/"
+    },
+    {
+      "name": "Cómo utilizar WhatsApp Messenger",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-utilizar-whatsapp-messenger/"
+    },
+    {
+      "name": "Cómo instalar Facebook Messenger",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-instalar-facebook-messenger/"
+    },
+    {
+      "name": "Cómo utilizar Facebook Messenger",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-utilizar-facebook-messenger/"
+    },
+    {
+      "name": "Cómo configurar el correo electrónico IMAP",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/mensajes-correo-electronico-y-chat-online/como-configurar-el-correo-electronico-imap/"
+    },
+    {
+      "name": "Entretenimiento y multimedia",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/entretenimiento-y-multimedia/"
+    },
+    {
+      "name": "Cómo instalar apps de Google Play",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/entretenimiento-y-multimedia/como-instalar-apps-de-google-play/"
+    },
+    {
+      "name": "Cómo utilizar el reproductor de música",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/entretenimiento-y-multimedia/como-utilizar-el-reproductor-de-musica/"
+    },
+    {
+      "name": "Activar o desactivar el GPS",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/entretenimiento-y-multimedia/activar-o-desactivar-el-gps/"
+    },
+    {
+      "name": "Cómo utilizar Google Maps",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/entretenimiento-y-multimedia/como-utilizar-google-maps/"
+    },
+    {
+      "name": "Cómo instalar Instagram",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/entretenimiento-y-multimedia/como-instalar-instagram/"
+    },
+    {
+      "name": "Cómo utilizar Instagram",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/entretenimiento-y-multimedia/como-utilizar-instagram/"
+    },
+    {
+      "name": "Cómo hacer una captura de pantalla",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/entretenimiento-y-multimedia/como-hacer-una-captura-de-pantalla/"
+    },
+    {
+      "name": "Cómo hacer una copia de seguridad de las fotografías y videoclips con Google Drive",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/entretenimiento-y-multimedia/como-hacer-una-copia-de-seguridad-de-las-fotografias-y-videoclips-con-google-drive/"
+    },
+    {
+      "name": "Cómo desinstalar apps",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/entretenimiento-y-multimedia/como-desinstalar-apps/"
+    },
+    {
+      "name": "Conectividad y redes",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/"
+    },
+    {
+      "name": "Cómo seleccionar una red",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/como-seleccionar-una-red/"
+    },
+    {
+      "name": "Cómo seleccionar el tipo de red",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/como-seleccionar-el-tipo-de-red/"
+    },
+    {
+      "name": "Activar o desactivar el modo de avión",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/activar-o-desactivar-el-modo-de-avion/"
+    },
+    {
+      "name": "Cómo configurar el móvil para internet",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/como-configurar-el-movil-para-internet/"
+    },
+    {
+      "name": "Cómo transferir archivos entre el ordenador y el móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/como-transferir-archivos-entre-el-ordenador-y-el-movil/"
+    },
+    {
+      "name": "Cómo utilizar el móvil como punto de acceso Wi-Fi",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/como-utilizar-el-movil-como-punto-de-acceso-wi-fi/"
+    },
+    {
+      "name": "Cómo vincular un dispositivo Bluetooth al móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/como-vincular-un-dispositivo-bluetooth-al-movil/"
+    },
+    {
+      "name": "Cómo consultar el consumo de datos",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/como-consultar-el-consumo-de-datos/"
+    },
+    {
+      "name": "Activar o desactivar los datos móviles",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/activar-o-desactivar-los-datos-moviles/"
+    },
+    {
+      "name": "Activar o desactivar la itinerancia de datos",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/activar-o-desactivar-la-itinerancia-de-datos/"
+    },
+    {
+      "name": "Activar o desactivar el uso automático de datos móviles",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/conectividad-y-redes/activar-o-desactivar-el-uso-automatico-de-datos-moviles/"
+    },
+    {
+      "name": "Configuración avanzada",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/"
+    },
+    {
+      "name": "Cómo reiniciar el móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-reiniciar-el-movil/"
+    },
+    {
+      "name": "Activar o desactivar el uso del código PIN",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/activar-o-desactivar-el-uso-del-codigo-pin/"
+    },
+    {
+      "name": "Activar o desactivar el uso del código de seguridad",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/activar-o-desactivar-el-uso-del-codigo-de-seguridad/"
+    },
+    {
+      "name": "Cómo actualizar el software del móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-actualizar-el-software-del-movil/"
+    },
+    {
+      "name": "Cómo restablecer la configuración predeterminada",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-restablecer-la-configuracion-predeterminada/"
+    },
+    {
+      "name": "Activar o desactivar la llamada en espera",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/activar-o-desactivar-la-llamada-en-espera/"
+    },
+    {
+      "name": "Activar o desactivar la identificación de llamadas",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/activar-o-desactivar-la-identificacion-de-llamadas/"
+    },
+    {
+      "name": "Cómo liberar el móvil",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-liberar-el-movil/"
+    },
+    {
+      "name": "Cómo cerrar las aplicaciones en segundo plano",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-cerrar-las-aplicaciones-en-segundo-plano/"
+    },
+    {
+      "name": "Cómo mover apps a la tarjeta de memoria",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-mover-apps-a-la-tarjeta-de-memoria/"
+    },
+    {
+      "name": "Cómo borrar datos temporales",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-borrar-datos-temporales/"
+    },
+    {
+      "name": "Activar o desactivar las notificaciones",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/activar-o-desactivar-las-notificaciones/"
+    },
+    {
+      "name": "Activar o desactivar la actualización automática de las apps",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/activar-o-desactivar-la-actualizacion-automatica-de-las-apps/"
+    },
+    {
+      "name": "Activar o desactivar la sincronización automática del contenido",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/activar-o-desactivar-la-sincronizacion-automatica-del-contenido/"
+    },
+    {
+      "name": "Cómo ahorrar batería",
+      "url": "https://guias.orange.es/samsung-galaxy-j5-2017-android-7-0/funciones/configuracion-avanzada/como-ahorrar-bateria/"
+    }
+  ]
+}
